@@ -1,0 +1,15 @@
+{
+  "name": "world-class-prompt-skills",
+  "version": "1.0.0",
+  "description": "Modular 4-skill pack for prompt architecture, anti-AI-slop web design, WebGPU/TSL 3D scroll choreography, and W3C DTCG URL reverse-engineering.",
+  "author": {
+    "name": "Your Name"
+  },
+  "license": "MIT",
+  "skills": [
+    "skills/prompt-architect",
+    "skills/anti-slop-design",
+    "skills/cinematic-3d-web",
+    "skills/url-reverse-engineer"
+  ]
+}

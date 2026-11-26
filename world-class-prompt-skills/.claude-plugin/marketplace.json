@@ -1,0 +1,13 @@
+{
+  "name": "world-class-prompt-skills-marketplace",
+  "owner": {
+    "name": "Your Name"
+  },
+  "plugins": [
+    {
+      "name": "world-class-prompt-skills",
+      "source": "./",
+      "description": "Cross-agent prompt engineering, anti-slop design, 3D/WebGPU scroll motion, and DTCG URL reverse-engineering skills."
+    }
+  ]
+}
